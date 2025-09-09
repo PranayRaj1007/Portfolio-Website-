@@ -20,4 +20,4 @@ npm run build
 ```
 
 ## 🌐 Deployment
-Deploy easily on Vercel, Netlify, or GitHub Pages.
+Deployed on Vercel and GitHub Page.
